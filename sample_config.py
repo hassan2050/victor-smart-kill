@@ -1,2 +1,3 @@
-username = "your email address"
-password = "your password"
+users = []
+users.append(("A", "email", "password"))
+
